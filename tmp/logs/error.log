@@ -1,0 +1,163 @@
+2014-04-19 03:32:10 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/grupos
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:15 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:21 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/grupos/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:31 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/caixa/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:35 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/grupos
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:37 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/grupo
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:39 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/grupo/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:32:44 Error: [MissingControllerException] Controller class GrupoController could not be found.
+Exception Attributes: array (
+  'class' => 'GrupoController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/grupo/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:38:24 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-04-19 03:55:44 Error: Fatal Error (4): syntax error, unexpected ';' in [D:\Php\xampp\htdocs\Contas\View\Caixas\add.ctp, line 10]
+2014-04-19 03:55:44 Error: [FatalErrorException] syntax error, unexpected ';'
+Request URL: /Contas/caixas/add
+Stack Trace:
+#0 D:\Php\xampp\htdocs\cakephp\lib\Cake\Error\ErrorHandler.php(184): ErrorHandler::handleFatalError(4, 'syntax error, u...', 'D:\Php\xampp\ht...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'syntax error, u...', 'D:\Php\xampp\ht...', 10, Array)
+#2 D:\Php\xampp\htdocs\cakephp\lib\Cake\Core\App.php(927): call_user_func('ErrorHandler::h...', 4, 'syntax error, u...', 'D:\Php\xampp\ht...', 10, Array)
+#3 D:\Php\xampp\htdocs\cakephp\lib\Cake\Core\App.php(900): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2014-09-09 18:39:41 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2014-09-20 21:06:15 Error: [NotFoundException] Invalid caixa
+Request URL: /Contas/Caixas/view
+Stack Trace:
+#0 [internal function]: CaixasController->view()
+#1 D:\Php\xampp\htdocs\cakephp\lib\Cake\Controller\Controller.php(486): ReflectionMethod->invokeArgs(Object(CaixasController), Array)
+#2 D:\Php\xampp\htdocs\cakephp\lib\Cake\Routing\Dispatcher.php(187): Controller->invokeAction(Object(CakeRequest))
+#3 D:\Php\xampp\htdocs\cakephp\lib\Cake\Routing\Dispatcher.php(162): Dispatcher->_invoke(Object(CaixasController), Object(CakeRequest), Object(CakeResponse))
+#4 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#5 {main}
+2015-01-17 12:49:25 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas/
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-17 12:49:44 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-17 12:49:47 Error: [MissingControllerException] Controller class ContasController could not be found.
+Exception Attributes: array (
+  'class' => 'ContasController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/contas
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-17 12:49:53 Error: [MissingControllerException] Controller class LancamentosController could not be found.
+Exception Attributes: array (
+  'class' => 'LancamentosController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/lancamentos
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-17 12:49:55 Error: [MissingControllerException] Controller class LancamentosController could not be found.
+Exception Attributes: array (
+  'class' => 'LancamentosController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/lancamentos
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-01-17 12:50:27 Error: [MissingControllerException] Controller class CaixaController could not be found.
+Exception Attributes: array (
+  'class' => 'CaixaController',
+  'plugin' => NULL,
+)
+Request URL: /Contas/Caixa
+Stack Trace:
+#0 D:\Php\xampp\htdocs\Contas\webroot\index.php(110): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
